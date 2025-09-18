@@ -1,2 +1,2 @@
-# Caso-Pr-ctico-Estad-stica
-Estudio estadístico realizado con R.
+# Caso-Práctico-Estadística
+Estudio estadístico realizado con R por Diego Rubio Canales y Javier Peirotén Fontecha
