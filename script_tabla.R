@@ -1,0 +1,1 @@
+descr(Anuncios$`Precio (€)`)
